@@ -16,7 +16,7 @@ public class Main {
 		cad2="adios";
 		
 		
-		
+		if(cad1.length()>cad2.length())
 		
 		//
 		if (cad1.compareToIgnoreCase(cad2)>0){

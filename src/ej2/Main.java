@@ -10,7 +10,7 @@ public class Main {
 		String cadAcierto="Hola";
 		
 		
-		//comprobamos si son iguales
+		//comprobamos si son iguales mediante el equals
 		if(cad1.equals(cadAcierto)) {
 			
 			System.out.println("Son iguales");
